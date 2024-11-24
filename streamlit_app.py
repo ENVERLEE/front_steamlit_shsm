@@ -5,7 +5,7 @@ from datetime import datetime
 import pandas as pd
 
 # API 설정
-API_URL = "http://localhost:8000/api"
+API_URL = "http://newly-liberal-mammal.ngrok-free.app/api"
 TOKEN = None
 
 class ResearchAssistantUI:
